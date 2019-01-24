@@ -1,0 +1,4 @@
+[submodule "firmware/samd21/src/cryptoauthlib"]
+	path = firmware/samd21/src/cryptoauthlib
+	url = https://github.com/MicrochipTech/cryptoauthlib
+	branch = master
